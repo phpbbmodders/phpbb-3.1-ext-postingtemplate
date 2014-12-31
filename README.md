@@ -5,7 +5,7 @@ phpBB 3.1 extension that allows you to set a "posting template" on per-forum bas
 
 This extension is the 3.1.x version of the [3.0.x posting template](https://www.phpbb.com/customise/db/mod/posting_template_3/)
 
-[![Build Status](https://travis-ci.org/phpbbmodders/postingtemplate.svg)](https://travis-ci.org/phpbbmodders/postingtemplate)
+[![Build Status](https://travis-ci.org/phpbbmodders/phpbb-3.1-ext-postingtemplate.svg)](https://travis-ci.org/phpbbmodders/phpbb-3.1-ext-postingtemplate)
 ## Installation
 
 ### 1. clone
