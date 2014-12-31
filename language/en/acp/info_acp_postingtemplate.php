@@ -1,13 +1,12 @@
 <?php
 /**
-*
-* Posting Template [English]
-*
-* @package language Posting Template
-* @copyright (c) 2014 RMcGirr83
-* @license http://opensource.org/licenses/gpl-2.0.php GNU General Public License v2
-*
-*/
+ *
+ * @package Posting Template extension
+ * @author RMcGirr83 (Rich McGirr)
+ * @copyright (c) 2014 phpbbmodders.net
+ * @license GNU General Public License, version 2 (GPL-2.0)
+ *
+ */
 
 if (!defined('IN_PHPBB'))
 {
