@@ -27,7 +27,7 @@
 		}
 	],
 	"require": {
-		"php": ">=5.3.3"
+		"php": ">=7.4"
 	},
 	"require-dev": {
 		"phpbb/epv": "dev-master"
@@ -35,7 +35,7 @@
 	"extra": {
 		"display-name": "Posting Template",
 		"soft-require": {
-			"phpbb/phpbb": ">=3.1.0-RC2,<3.2@dev"
+			"phpbb/phpbb": ">=3.3.19,<4.0.0@dev"
 		}
 	}
 }
