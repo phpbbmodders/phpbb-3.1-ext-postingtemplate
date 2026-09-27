@@ -2,17 +2,28 @@
 	"name": "phpbbmodders/postingtemplate",
 	"type": "phpbb-extension",
 	"description": "The posting template is predefined text that will appear if a user starts a new topic in that forum",
-	"homepage": "https://github.com/phpbbmodders/phpbb-3.1-ext-postingtemplate",
+	"homepage": "https://www.phpbbmodders.com/",
 	"version": "1.0.0",
 	"time": "2014-12-30",
-	"keywords": ["phpbb", "extension", "posting template"],
-	"license": "GPL-2.0",
+	"keywords": [
+		"phpbb",
+		"extension",
+		"posting",
+		"templates"
+	],
+	"license": "GPL-2.0-only",
 	"authors": [
+		{
+			"name": "phpBB Modders",
+			"email": "board@phpbbmodders.com",
+			"homepage": "https://www.phpbbmodders.com/",
+			"role": "Extension Developer"
+		},
 		{
 			"name": "Rich McGirr",
 			"homepage": "http://rmcgirr83.org",
 			"email": "rmcgirr83@rmcgirr83.org",
-			"role": "Developer"
+			"role": "Past Developer"
 		}
 	],
 	"require": {

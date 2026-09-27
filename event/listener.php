@@ -1,9 +1,11 @@
 <?php
 /**
  *
- * @package Posting Template extension
+ * Posting Template extension for the phpBB Forum Software package
+ *
  * @author RMcGirr83 (Rich McGirr)
  * @copyright (c) 2014 phpbbmodders.net
+ * @copyright (c) 2026, phpBB Modders, https://www.phpbbmodders.com/
  * @license GNU General Public License, version 2 (GPL-2.0)
  *
  */
