@@ -1,7 +1,7 @@
 {
 	"name": "phpbbmodders/postingtemplate",
 	"type": "phpbb-extension",
-	"description": "The posting template is predefined text that will appear if a user starts a new topic in that forum",
+	"description": "Fills the message box with a per-forum template when someone starts a new topic.",
 	"homepage": "https://www.phpbbmodders.com/",
 	"version": "1.0.0",
 	"time": "2014-12-30",
