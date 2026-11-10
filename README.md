@@ -13,7 +13,7 @@ Fills the message box with a per-forum template when someone starts a new topic.
 ## Requirements
 
 - phpBB 3.3.19 or later
-- PHP 7.4 or later
+- PHP 8.1 or later
 
 ## Installation
 
